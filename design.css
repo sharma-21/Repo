@@ -1,0 +1,15 @@
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+p{
+    text-align: center;
+    text-decoration: dotted;
+    background-color: aqua;
+}
+
+*{
+    background-color: bisque;
+}
